@@ -1,7 +1,7 @@
 {
   "name": "codex-lark",
-  "version": "0.3.0",
-  "description": "Feishu/Lark-first local bridge for Codex, evolved from codex-im.",
+  "version": "0.3.1",
+  "description": "Feishu/Lark-first local bridge for Codex, with a planned Xiaomi MiMo integration path.",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -19,7 +19,11 @@
     "lark",
     "bot",
     "cli",
-    "remote"
+    "remote",
+    "claude-code",
+    "feishu-bot",
+    "ai-assistant",
+    "mimo"
   ],
   "files": [
     "bin",
